@@ -45,9 +45,3 @@ print("\'") #Aspa simples
 print("\"") #Aspa duplas
 print("\n") #Nova Linha
 print("\t") #Tab
-
-
-
-
-
-
