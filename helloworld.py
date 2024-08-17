@@ -2,11 +2,13 @@ import datetime #importar toda a biblioteca
 
 #Formatando saída de dados com print(f-string)
 
-x = 25.1254          #float
-y = "Samuel Santos"  #text
-z = 1000             #int
+a = bytes (100)      #maior igual a 0 menor que 256
+x = float (25.1254)  #float
+y = str ("Samuel Santos")  #text
+z = int (1000)             #int
 d = datetime.date (2024,10,24)  #date
 h = datetime.time (12,45)   #hora
+
 
 #Formatador Float
 
